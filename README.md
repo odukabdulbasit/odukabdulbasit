@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @odukabdulbasit
 - 👀 I’m interested in Android with kotlin
 - 🌱 I’m currently learning andvanced android kotlin 
+- 🖱️  Student in Udacity
 - 💞️ I’m looking to collaborate on project to improve my skills on android kotlin
 - 📫 How to reach me odukabdulbasit@gmail.com
 
