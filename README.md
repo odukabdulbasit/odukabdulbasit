@@ -1,8 +1,8 @@
 - 👋  Hi, I’m Abdulbasit ODUK
-- 👀  I’m an Android developer
+- 👀  I’m an Android Developer
 - 🌱  I have experince on Android development with Kotlin 
 - 🖱️   Graduate from Android Kotlin Nanodegree Program - Udacity
-- 💞️  I’m looking to collaborate on project to improve my skills on android kotlin
+- 💞️  I’m looking to collaborate on project and a team 
 - 📫  How to reach me odukabdulbasit@gmail.com
 
 <!---
